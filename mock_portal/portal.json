@@ -1,0 +1,13 @@
+{
+  "users": {
+    "operator": "s3cret-pass"
+  },
+  "amount_min": 0.01,
+  "amount_max": 10000,
+  "remark_max": 50,
+  "request_delay_ms": 0,
+  "seed_records": [
+    {"order_no": "SEED-0001", "amount": 100.0, "remark": "portal 已有记录"}
+  ]
+}
+

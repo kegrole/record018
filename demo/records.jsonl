@@ -1,0 +1,12 @@
+{"order_no":"A-1001","amount":320.5,"remark":"办公用品采购"}
+{"order_no":"A-1002","amount":88,"remark":"快递费"}
+{"order_no":"A-1003","amount":1500,"remark":"设备维护"}
+{"order_no":"A-1004","amount":46.8,"remark":"饮用水"}
+{"order_no":"A-1005","amount":720,"remark":"差旅报销"}
+{"order_no":"A-1006","amount":9999.99,"remark":"服务器续费"}
+{"order_no":"A-1007","amount":12.3,"remark":"打印纸"}
+{"order_no":"A-1008","amount":450,"remark":"团队午餐"}
+{"order_no":"A-1008","amount":450,"remark":"团队午餐"}
+{"order_no":"SEED-0001","amount":100,"remark":"与门户已有记录重复"}
+{"order_no":"A-1010","amount":88888,"remark":"金额超出门户上限"}
+{"order_no":"A-1011","amount":66.6,"remark":"这是一条特别长的备注，用来验证程序在门户拒绝超长备注时能够自动截断到上限再重新提交，超出部分应当被丢弃"}
